@@ -20,7 +20,7 @@
     "scss": "^0.2.4",
     "split-text": "^1.0.0",
     "swiper": "^11.1.15",
-    "homepage": "./"
+    "homepage": "https://parksangho-web.github.io/portfoliho/"
   },
   "scripts": {
     "start": "react-scripts start",
