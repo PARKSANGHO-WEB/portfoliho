@@ -1,37 +1,20 @@
 {
   "files": {
-    "main.css": "/portfoliho/static/css/main.b38acad6.css",
-    "main.js": "/portfoliho/static/js/main.9f6ca9ec.js",
-    "static/media/port_bg_4.jpg": "/portfoliho/static/media/port_bg_4.e8cc59bdabee8217a1fa.jpg",
-    "static/media/lotte_1.png": "/portfoliho/static/media/lotte_1.4757b0730b0786c1abcd.png",
-    "static/media/kustart_1.png": "/portfoliho/static/media/kustart_1.5d3d494fc92a34d4f8f1.png",
-    "static/media/hoseo_1.png": "/portfoliho/static/media/hoseo_1.445e5a0113910eb2fc66.png",
-    "static/media/hoseo_3.png": "/portfoliho/static/media/hoseo_3.22767454f110948d1eef.png",
-    "static/media/port_bg_2.jpg": "/portfoliho/static/media/port_bg_2.bc8876e0352cd010bbbc.jpg",
-    "static/media/lotte_3.png": "/portfoliho/static/media/lotte_3.4d561184efbbb5d9bbbc.png",
-    "static/media/hoseo_2.png": "/portfoliho/static/media/hoseo_2.a951301616dfdda5d4d5.png",
-    "static/media/guess_2.png": "/portfoliho/static/media/guess_2.0393b2d25050d99b447f.png",
-    "static/media/kustart_3.png": "/portfoliho/static/media/kustart_3.8c34f6f57ae342021f99.png",
-    "static/media/port_bg_1.jpg": "/portfoliho/static/media/port_bg_1.8c3e3f9ca4affc46b193.jpg",
-    "static/media/profile_img.jpg": "/portfoliho/static/media/profile_img.d1f1bde90238962acbd6.jpg",
-    "static/media/guess_3.png": "/portfoliho/static/media/guess_3.0ce11c7ec4f868c78dd0.png",
-    "static/media/shinhan_3.png": "/portfoliho/static/media/shinhan_3.d3fa79d9c2f59fba658d.png",
-    "static/media/guess_1.png": "/portfoliho/static/media/guess_1.4a02a9b37e92ebc7e2ec.png",
-    "static/media/lotte_2.png": "/portfoliho/static/media/lotte_2.1771f1e279c0b0b0b69d.png",
-    "static/media/shinhan_1.png": "/portfoliho/static/media/shinhan_1.83bbb6beb2a76d4fce90.png",
-    "static/media/kustart_2.png": "/portfoliho/static/media/kustart_2.a6c2ebc7888d127c326e.png",
-    "static/media/shinhan_4.png": "/portfoliho/static/media/shinhan_4.20a0d161c735c77841e4.png",
-    "static/media/shinhan_2.png": "/portfoliho/static/media/shinhan_2.d99d57d58b7741141333.png",
-    "static/media/port_bg_3.jpg": "/portfoliho/static/media/port_bg_3.0699f8715cc41abfa187.jpg",
-    "static/media/port_bg_5.jpg": "/portfoliho/static/media/port_bg_5.f16def329b9837be501c.jpg",
-    "index.html": "/portfoliho/index.html",
-    "static/media/arrow_left.svg": "/portfoliho/static/media/arrow_left.b5d42f885cc4b6ade1325c283dbfbc85.svg",
-    "static/media/arrow_right.svg": "/portfoliho/static/media/arrow_right.3d24933cdd9610034ec70c24c940775d.svg",
-    "main.b38acad6.css.map": "/portfoliho/static/css/main.b38acad6.css.map",
-    "main.9f6ca9ec.js.map": "/portfoliho/static/js/main.9f6ca9ec.js.map"
+    "main.css": "/sanghopolio/static/css/main.2edbe3d6.css",
+    "main.js": "/sanghopolio/static/js/main.7c56b689.js",
+    "static/media/main_video2.mp4": "/sanghopolio/static/media/main_video2.95c9b5f6ee3e71285f39.mp4",
+    "static/media/about_01.jpg": "/sanghopolio/static/media/about_01.721cc9987de0dd3a7328.jpg",
+    "static/media/about_03.jpg": "/sanghopolio/static/media/about_03.1161443756b926524993.jpg",
+    "static/media/about_02.jpg": "/sanghopolio/static/media/about_02.87c85d3a1f3c7cd31fd8.jpg",
+    "static/media/logo_w.svg": "/sanghopolio/static/media/logo_w.0f6621c8379a4d09e6eea634a3f319e0.svg",
+    "index.html": "/sanghopolio/index.html",
+    "static/media/ico_right_b.svg": "/sanghopolio/static/media/ico_right_b.07bc992b3f8b7913c454f31cbf561b10.svg",
+    "static/media/ico_right_w.svg": "/sanghopolio/static/media/ico_right_w.8430c1fee7d5f192b8fc81813d5ae27e.svg",
+    "main.2edbe3d6.css.map": "/sanghopolio/static/css/main.2edbe3d6.css.map",
+    "main.7c56b689.js.map": "/sanghopolio/static/js/main.7c56b689.js.map"
   },
   "entrypoints": [
-    "static/css/main.b38acad6.css",
-    "static/js/main.9f6ca9ec.js"
+    "static/css/main.2edbe3d6.css",
+    "static/js/main.7c56b689.js"
   ]
 }
