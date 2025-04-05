@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sanghopolio/static/css/main.c8dda6b4.css",
+    "main.css": "/sanghopolio/static/css/main.1c55eda2.css",
     "main.js": "/sanghopolio/static/js/main.5175ad63.js",
     "static/media/main_video2.mp4": "/sanghopolio/static/media/main_video2.eb15ad24fe5184737069.mp4",
     "static/media/about_01.jpg": "/sanghopolio/static/media/about_01.721cc9987de0dd3a7328.jpg",
@@ -10,11 +10,11 @@
     "index.html": "/sanghopolio/index.html",
     "static/media/ico_right_b.svg": "/sanghopolio/static/media/ico_right_b.07bc992b3f8b7913c454f31cbf561b10.svg",
     "static/media/ico_right_w.svg": "/sanghopolio/static/media/ico_right_w.8430c1fee7d5f192b8fc81813d5ae27e.svg",
-    "main.c8dda6b4.css.map": "/sanghopolio/static/css/main.c8dda6b4.css.map",
+    "main.1c55eda2.css.map": "/sanghopolio/static/css/main.1c55eda2.css.map",
     "main.5175ad63.js.map": "/sanghopolio/static/js/main.5175ad63.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8dda6b4.css",
+    "static/css/main.1c55eda2.css",
     "static/js/main.5175ad63.js"
   ]
 }
